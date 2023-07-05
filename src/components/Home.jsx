@@ -31,7 +31,7 @@ const Home = () => {
           borderBottom={'2px solid'}
           m="auto"
         >
-          Services
+          Services for website
         </Heading>
 
         <Stack
